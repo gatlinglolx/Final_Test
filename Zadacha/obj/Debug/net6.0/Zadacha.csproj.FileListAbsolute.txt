@@ -1,0 +1,15 @@
+D:\Курсы\Itog_1semestr\Zadacha\bin\Debug\net6.0\Zadacha.exe
+D:\Курсы\Itog_1semestr\Zadacha\bin\Debug\net6.0\Zadacha.deps.json
+D:\Курсы\Itog_1semestr\Zadacha\bin\Debug\net6.0\Zadacha.runtimeconfig.json
+D:\Курсы\Itog_1semestr\Zadacha\bin\Debug\net6.0\Zadacha.dll
+D:\Курсы\Itog_1semestr\Zadacha\bin\Debug\net6.0\Zadacha.pdb
+D:\Курсы\Itog_1semestr\Zadacha\obj\Debug\net6.0\Zadacha.csproj.AssemblyReference.cache
+D:\Курсы\Itog_1semestr\Zadacha\obj\Debug\net6.0\Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\Itog_1semestr\Zadacha\obj\Debug\net6.0\Zadacha.AssemblyInfoInputs.cache
+D:\Курсы\Itog_1semestr\Zadacha\obj\Debug\net6.0\Zadacha.AssemblyInfo.cs
+D:\Курсы\Itog_1semestr\Zadacha\obj\Debug\net6.0\Zadacha.csproj.CoreCompileInputs.cache
+D:\Курсы\Itog_1semestr\Zadacha\obj\Debug\net6.0\Zadacha.dll
+D:\Курсы\Itog_1semestr\Zadacha\obj\Debug\net6.0\refint\Zadacha.dll
+D:\Курсы\Itog_1semestr\Zadacha\obj\Debug\net6.0\Zadacha.pdb
+D:\Курсы\Itog_1semestr\Zadacha\obj\Debug\net6.0\Zadacha.genruntimeconfig.cache
+D:\Курсы\Itog_1semestr\Zadacha\obj\Debug\net6.0\ref\Zadacha.dll
